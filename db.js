@@ -14,17 +14,6 @@ app.db_data = [{
   "rank": "",
   "views": 0,
   "group": 0,
-  "add_date": "",
-  "last_modified": ""
-}, {
-  "title": "",
-  "url": "",
-  "desc": "",
-  "icon": "",
-  "favicon": "",
-  "rank": "",
-  "views": 0,
-  "group": 0,
-  "add_date": "",
-  "last_modified": ""
+  "add_date": "1422356048",
+  "last_modified": "1422356048"
 }];

@@ -4,8 +4,10 @@
 var json = [];
 $('#website-map').find('section').each(function(i){
   json[i] = {};
-  json[i]["cat"] = $(this).data('catalog');
-  json[i]["name"] = $(this).find('header>h3').text();
+  json[i]["category"] = $(this).data('catalog');
+  json[i]["name"] = "";
+  json[i]["slug"] = "";
+  json[i]["desc"] = $(this).data('catalog');
   json[i]["links"] = [];
   $(this).find('li').each(function(v){
     var link = {};
@@ -28,8 +30,10 @@ JSON.stringify(json)
 
 [
   {
-    "cat": "template",
-    "name": "网站模版 欣赏 下载",
+    "category": "template",
+    "name": "",
+    "slug": "",
+    "desc": "template",
     "links": [
       {
         "title": "网页模版巨人",
@@ -178,8 +182,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "icon",
-    "name": "图标 ICON 下载",
+    "category": "icon",
+    "name": "",
+    "slug": "",
+    "desc": "icon",
     "links": [
       {
         "title": "Iconfinder",
@@ -400,8 +406,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "brush",
-    "name": "笔刷 纹理 下载",
+    "category": "brush",
+    "name": "",
+    "slug": "",
+    "desc": "brush",
     "links": [
       {
         "title": "QBrushes",
@@ -550,8 +558,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "logo",
-    "name": "Logo 设计",
+    "category": "logo",
+    "name": "",
+    "slug": "",
+    "desc": "logo",
     "links": [
       {
         "title": "LogoPond",
@@ -700,8 +710,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "logo",
-    "name": "更多酷站 敬请期待",
+    "category": "logo",
+    "name": "",
+    "slug": "",
+    "desc": "logo",
     "links": []
   }
 ]

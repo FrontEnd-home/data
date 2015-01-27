@@ -1,0 +1,80 @@
+{
+  "category": "colorfy",
+  "name": "色彩搭配",
+  "slug": "colorfy",
+  "desc": "色彩搭配",
+  "links": [
+    {
+      "title": "Adobe配色工具",
+      "url": "https://kuler.adobe.com/",
+      "desc": "Adobe出品的配色网站",
+      "icon": "",
+      "favicon": "",
+      "rank": "",
+      "views": "",
+      "group": "",
+      "add_date": "1422356048",
+      "last_modified": "1422356048"
+    },
+    {
+      "title": "colorfy",
+      "url": "http://www.colorfyit.com/",
+      "desc": "输入网站地址就能得到它的配色方案",
+      "icon": "",
+      "favicon": "",
+      "rank": "",
+      "views": "",
+      "group": "",
+      "add_date": "1422356048",
+      "last_modified": "1422356048"
+    },
+    {
+      "title": "ColorHunter",
+      "url": "http://www.colorhunter.com/",
+      "desc": "上传照片提取配色方案",
+      "icon": "",
+      "favicon": "",
+      "rank": "",
+      "views": "",
+      "group": "",
+      "add_date": "1422356048",
+      "last_modified": "1422356048"
+    },
+    {
+      "title": "Colourlovers",
+      "url": "http://www.colourlovers.com/",
+      "desc": "提供丰富的用户创建和共享色彩灵感以及工具的平台",
+      "icon": "",
+      "favicon": "",
+      "rank": "",
+      "views": "",
+      "group": "",
+      "add_date": "1422356048",
+      "last_modified": "1422356048"
+    },
+    {
+      "title": "CSD配色利器",
+      "url": "http://colorschemedesigner.com",
+      "desc": "配色利器！能够即时预览到简单的由所选配色搭建的页面效果",
+      "icon": "",
+      "favicon": "",
+      "rank": "",
+      "views": "",
+      "group": "",
+      "add_date": "1422356048",
+      "last_modified": "1422356048"
+    },
+    {
+      "title": "设计种子",
+      "url": "http://www.design-seeds.com/",
+      "desc": "一位从业18年的色彩专家分享的配色经验与案例",
+      "icon": "",
+      "favicon": "",
+      "rank": "",
+      "views": "",
+      "group": "",
+      "add_date": "1422356048",
+      "last_modified": "1422356048"
+    }
+  ]
+}

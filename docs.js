@@ -28,8 +28,8 @@
   rank: "1.1.1",        //排名
   quality: 1,           //子类数
   alias: ["xhtml"],
-  add_date: "1399467780",
-  last_modified: "1418038405",
+  add_date: "1422356048",
+  last_modified: "1422356048",
   path: "",             //路径自定义指定?
   db_path: "db.json",   //数据挂载?
   db_size: 100
@@ -44,8 +44,8 @@ app.DOCS = [{
   quality: 1,
   alias: ["xhtml"],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }, {
   name: "CSS",
   slug: "css",
@@ -54,8 +54,8 @@ app.DOCS = [{
   quality: 1,
   alias: [],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }, {
   name: "JavaScript",
   slug: "javascript",
@@ -64,8 +64,8 @@ app.DOCS = [{
   quality: 1,
   alias: ["js"],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }, {
   name: "Web设计",
   slug: "design",
@@ -74,8 +74,8 @@ app.DOCS = [{
   quality: 1,
   alias: ["design","视觉设计"],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }, {
   name: "开发工具",
   slug: "tools",
@@ -84,8 +84,8 @@ app.DOCS = [{
   quality: 1,
   alias: ["devtool"],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }, {
   name: "书籍",
   slug: "books",
@@ -94,8 +94,8 @@ app.DOCS = [{
   quality: 1,
   alias: ['ebook'],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }, {
   name: "造好的轮子",
   slug: "wheel",
@@ -103,8 +103,8 @@ app.DOCS = [{
   rank: "9.2.0",
   alias: [],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }, {
   name: "淘金",
   slug: "panning",
@@ -112,6 +112,6 @@ app.DOCS = [{
   rank: "9.9.0",
   alias: [],
   db_path: "category_list.js",
-  add_date: "1399467780",
-  last_modified: "1418038405"
+  add_date: "1422356048",
+  last_modified: "1422356048"
 }];

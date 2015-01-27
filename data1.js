@@ -17,7 +17,10 @@
 var json = [];
 $('.item').each(function(i){
   json[i] = {};
-  json[i]["cat"] = $(this).find('h2').text();
+  json[i]["category"] = $(this).find('h2').text();
+  json[i]["name"] = "";
+  json[i]["slug"] = "";
+  json[i]["desc"] = $(this).find('h2').text();
   json[i]["links"] = [];
   $(this).find('li').each(function(v){
     var link = {};
@@ -40,7 +43,10 @@ JSON.stringify(json)
 
 [
   {
-    "cat": "前端开发",
+    "category": "frontend",
+    "name": "前端开发",
+    "slug": "frontend",
+    "desc": "前端开发",
     "links": [
       {
         "title": "Browsershot",
@@ -213,7 +219,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "UX研究所",
+    "category": "UX研究所",
+    "name": "用户体验",
+    "slug": "ux",
+    "desc": "UX研究所",
     "links": [
       {
         "title": "SixUX",
@@ -374,7 +383,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "UX团队",
+    "category": "UX团队",
+    "name": "",
+    "slug": "",
+    "desc": "UX团队",
     "links": [
       {
         "title": "19楼UED",
@@ -823,7 +835,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "移动互联网",
+    "category": "移动互联网",
+    "name": "",
+    "slug": "",
+    "desc": "移动互联网",
     "links": [
       {
         "title": "Android",
@@ -1032,7 +1047,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "图标",
+    "category": "图标",
+    "name": "",
+    "slug": "",
+    "desc": "图标",
     "links": [
       {
         "title": "Dryicons",
@@ -1217,7 +1235,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "栅格化",
+    "category": "grid",
+    "name": "栅格化",
+    "slug": "grid",
+    "desc": "栅格化",
     "links": [
       {
         "title": "3X4栅格构建器",
@@ -1318,7 +1339,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "灵感",
+    "category": "灵感",
+    "name": "",
+    "slug": "",
+    "desc": "灵感",
     "links": [
       {
         "title": "365优秀设计师",
@@ -1815,7 +1839,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "设计大赏",
+    "category": "设计大赏",
+    "name": "",
+    "slug": "",
+    "desc": "设计大赏",
     "links": [
       {
         "title": "51酷站",
@@ -2408,7 +2435,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "资讯",
+    "category": "资讯",
+    "name": "",
+    "slug": "",
+    "desc": "资讯",
     "links": [
       {
         "title": "36氪",
@@ -2617,7 +2647,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "数据研究",
+    "category": "数据研究",
+    "name": "",
+    "slug": "",
+    "desc": "数据研究",
     "links": [
       {
         "title": "CNNIC",
@@ -2826,7 +2859,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "教程",
+    "category": "教程",
+    "name": "",
+    "slug": "",
+    "desc": "教程",
     "links": [
       {
         "title": "Contact",
@@ -2963,7 +2999,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "色彩",
+    "category": "色彩",
+    "name": "",
+    "slug": "",
+    "desc": "色彩",
     "links": [
       {
         "title": "Adobe配色工具",
@@ -3040,7 +3079,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "设计圈子",
+    "category": "设计圈子",
+    "name": "",
+    "slug": "",
+    "desc": "设计圈子",
     "links": [
       {
         "title": "IconFans",
@@ -3105,7 +3147,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "工具",
+    "category": "工具",
+    "name": "",
+    "slug": "",
+    "desc": "工具",
     "links": [
       {
         "title": "Adobe CS6 大",
@@ -3230,7 +3275,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "综合素材",
+    "category": "综合素材",
+    "name": "",
+    "slug": "",
+    "desc": "综合素材",
     "links": [
       {
         "title": "365PSD",
@@ -3643,7 +3691,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "字体",
+    "category": "fonts",
+    "name": "字体",
+    "slug": "fonts",
+    "desc": "字体",
     "links": [
       {
         "title": "Dafont",
@@ -3744,7 +3795,10 @@ JSON.stringify(json)
     ]
   },
   {
-    "cat": "图库",
+    "category": "图库",
+    "name": "",
+    "slug": "",
+    "desc": "图库",
     "links": [
       {
         "title": "123RF",
