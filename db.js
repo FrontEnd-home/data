@@ -7,22 +7,24 @@
 
 app.db_data = [{
   "title": "",
-  "icon": "",
   "url": "",
   "desc": "",
+  "icon": "",
+  "favicon": "",
   "rank": "",
   "views": 0,
   "group": 0,
-  "add_date": "1399467780",
-  "last_modified": "1418038405"
+  "add_date": "",
+  "last_modified": ""
 }, {
   "title": "",
-  "icon": "",
   "url": "",
   "desc": "",
+  "icon": "",
+  "favicon": "",
   "rank": "",
   "views": 0,
   "group": 0,
-  "add_date": "1399467780",
-  "last_modified": "1418038405"
+  "add_date": "",
+  "last_modified": ""
 }];

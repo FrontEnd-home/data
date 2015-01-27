@@ -24,9 +24,9 @@
 {
   name: "HTML",         //显示名称
   slug: "html",         //分类/路径
-  type: "html",         //icon
+  icon: "html",         //icon
   rank: "1.1.1",        //排名
-  quality: 3,           //子类数
+  quality: 1,           //子类数
   alias: ["xhtml"],
   add_date: "1399467780",
   last_modified: "1418038405",
@@ -39,9 +39,9 @@
 app.DOCS = [{
   name: "HTML",
   slug: "html",
-  type: "html",
+  icon: "html",
   rank: "1.1.1",
-  quality: 3,
+  quality: 1,
   alias: ["xhtml"],
   db_path: "category_list.js",
   add_date: "1399467780",
@@ -49,9 +49,9 @@ app.DOCS = [{
 }, {
   name: "CSS",
   slug: "css",
-  type: "css",
+  icon: "css",
   rank: "1.2.1",
-  quality: 3,
+  quality: 1,
   alias: [],
   db_path: "category_list.js",
   add_date: "1399467780",
@@ -59,9 +59,9 @@ app.DOCS = [{
 }, {
   name: "JavaScript",
   slug: "javascript",
-  type: "javascript",
+  icon: "javascript",
   rank: "1.3.1",
-  quality: 3,
+  quality: 1,
   alias: ["js"],
   db_path: "category_list.js",
   add_date: "1399467780",
@@ -69,9 +69,9 @@ app.DOCS = [{
 }, {
   name: "Web设计",
   slug: "design",
-  type: "design",
+  icon: "design",
   rank: "2.1.1",
-  quality: 3,
+  quality: 1,
   alias: ["design","视觉设计"],
   db_path: "category_list.js",
   add_date: "1399467780",
@@ -79,9 +79,9 @@ app.DOCS = [{
 }, {
   name: "开发工具",
   slug: "tools",
-  type: "tools",
+  icon: "tools",
   rank: "3.1.1",
-  quality: 3,
+  quality: 1,
   alias: ["devtool"],
   db_path: "category_list.js",
   add_date: "1399467780",
@@ -89,9 +89,9 @@ app.DOCS = [{
 }, {
   name: "书籍",
   slug: "books",
-  type: "books",
+  icon: "books",
   rank: "9.1.1",
-  quality: 3,
+  quality: 1,
   alias: ['ebook'],
   db_path: "category_list.js",
   add_date: "1399467780",
@@ -99,7 +99,7 @@ app.DOCS = [{
 }, {
   name: "造好的轮子",
   slug: "wheel",
-  type: "wheel",
+  icon: "wheel",
   rank: "9.2.0",
   alias: [],
   db_path: "category_list.js",
@@ -108,7 +108,7 @@ app.DOCS = [{
 }, {
   name: "淘金",
   slug: "panning",
-  type: "panning",
+  icon: "panning",
   rank: "9.9.0",
   alias: [],
   db_path: "category_list.js",
