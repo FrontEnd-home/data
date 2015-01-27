@@ -465,4 +465,74 @@ app.category_list = [{
   db_path: "db.js",
   add_date: "1399467780",
   last_modified: "1418038405"
+}, {
+  name: "字体",
+  slug: "fonts",
+  type: "fonts",
+  rank: "1",
+  quality: 3,
+  alias: [],
+  db_path: "db.js",
+  add_date: "1399467780",
+  last_modified: "1418038405"
+}, {
+  name: "图标",
+  slug: "icon",
+  type: "icon",
+  rank: "1",
+  quality: 3,
+  alias: [],
+  db_path: "db.js",
+  add_date: "1399467780",
+  last_modified: "1418038405"
+}, {
+  name: "笔刷/纹理",
+  slug: "brush",
+  type: "brush",
+  rank: "1",
+  quality: 3,
+  alias: [],
+  db_path: "db.js",
+  add_date: "1399467780",
+  last_modified: "1418038405"
+}, {
+  name: "Logo设计",
+  slug: "logo",
+  type: "logo",
+  rank: "1",
+  quality: 3,
+  alias: [],
+  db_path: "db.js",
+  add_date: "1399467780",
+  last_modified: "1418038405"
+}, {
+  name: "设计欣赏",
+  slug: "webcool",
+  type: "webcool",
+  rank: "1",
+  quality: 3,
+  alias: [],
+  db_path: "db.js",
+  add_date: "1399467780",
+  last_modified: "1418038405"
+}, {
+  name: "色彩搭配",
+  slug: "colorfy",
+  type: "colorfy",
+  rank: "1",
+  quality: 3,
+  alias: [],
+  db_path: "db.js",
+  add_date: "1399467780",
+  last_modified: "1418038405"
+}, {
+  name: "素材/图库",
+  slug: "ps",
+  type: "ps",
+  rank: "1",
+  quality: 3,
+  alias: [],
+  db_path: "db.js",
+  add_date: "1399467780",
+  last_modified: "1418038405"
 }];
