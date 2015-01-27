@@ -43,7 +43,7 @@ app.DOCS = [{
   rank: "1.1.1",
   quality: 1,
   alias: ["xhtml"],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }, {
@@ -53,7 +53,7 @@ app.DOCS = [{
   rank: "1.2.1",
   quality: 1,
   alias: [],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }, {
@@ -63,7 +63,7 @@ app.DOCS = [{
   rank: "1.3.1",
   quality: 1,
   alias: ["js"],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }, {
@@ -73,7 +73,7 @@ app.DOCS = [{
   rank: "2.1.1",
   quality: 1,
   alias: ["design","视觉设计"],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }, {
@@ -83,7 +83,7 @@ app.DOCS = [{
   rank: "3.1.1",
   quality: 1,
   alias: ["devtool"],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }, {
@@ -93,7 +93,7 @@ app.DOCS = [{
   rank: "9.1.1",
   quality: 1,
   alias: ['ebook'],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }, {
@@ -102,7 +102,7 @@ app.DOCS = [{
   icon: "wheel",
   rank: "9.2.0",
   alias: [],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }, {
@@ -111,7 +111,7 @@ app.DOCS = [{
   icon: "panning",
   rank: "9.9.0",
   alias: [],
-  db_path: "category_list.js",
+  db_path: "category_list.json",
   add_date: "1422356048",
   last_modified: "1422356048"
 }];
