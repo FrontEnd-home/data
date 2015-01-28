@@ -1,0 +1,156 @@
+POST:
+{"category":{"name":"HTML5","slug":"html5","_parent_id":"54c8f201c556922c212a6077","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c3c556922c212a6085"}}
+POST:
+{"category":{"name":"CSS3","slug":"css3","_parent_id":"54c8f201c556922c212a6078","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c3c556922c212a6086"}}
+POST:
+{"category":{"name":"Sass","slug":"sass","_parent_id":"54c8f201c556922c212a6078","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6087"}}
+POST:
+{"category":{"name":"Less","slug":"less","_parent_id":"54c8f201c556922c212a6078","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6088"}}
+POST:
+{"category":{"name":"Node.js","slug":"nodejs","_parent_id":"54c8f201c556922c212a607a","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6089"}}
+POST:
+{"category":{"name":"Backbone.js","slug":"backbone","_parent_id":"54c8f201c556922c212a607a","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a608a"}}
+POST:
+{"category":{"name":"Angular.js","slug":"angular","_parent_id":"54c8f201c556922c212a607a","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a608b"}}
+POST:
+{"category":{"name":"ExtJS","slug":"extjs","_parent_id":"54c8f201c556922c212a607a","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a608c"}}
+POST:
+{"category":{"name":"jQuery","slug":"jquery","_parent_id":"54c8f201c556922c212a607b","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a608d"}}
+POST:
+{"category":{"name":"jQuery UI","slug":"jqueryui","_parent_id":"54c8f201c556922c212a607b","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a608e"}}
+POST:
+{"category":{"name":"Underscore.js","slug":"underscore","_parent_id":"54c8f201c556922c212a607b","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a608f"}}
+POST:
+{"category":{"name":"Zepto.js","slug":"zepto","_parent_id":"54c8f201c556922c212a607b","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6090"}}
+POST:
+{"category":{"name":"Modernizr","slug":"modernizr","_parent_id":"54c8f201c556922c212a607b","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6091"}}
+POST:
+{"category":{"name":"RequireJS","slug":"requirejs","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6092"}}
+POST:
+{"category":{"name":"SeaJS","slug":"seajs","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6093"}}
+POST:
+{"category":{"name":"Git","slug":"git","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6094"}}
+POST:
+{"category":{"name":"SVN","slug":"svn","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6095"}}
+POST:
+{"category":{"name":"jsDoc","slug":"jsdoc","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6096"}}
+POST:
+{"category":{"name":"JSLint","slug":"jslint","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6097"}}
+POST:
+{"category":{"name":"JSHint","slug":"jshint","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6098"}}
+POST:
+{"category":{"name":"Bower","slug":"bower","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a6099"}}
+POST:
+{"category":{"name":"Grunt","slug":"grunt","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a609a"}}
+POST:
+{"category":{"name":"Gulp","slug":"gulp","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a609b"}}
+POST:
+{"category":{"name":"Fiddler","slug":"fiddle","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a609c"}}
+POST:
+{"category":{"name":"Firebug","slug":"firebug","_parent_id":"54c8f201c556922c212a607c","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a609d"}}
+POST:
+{"category":{"name":"Sublime Text","slug":"sublime","_parent_id":"54c8f201c556922c212a607d","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a609e"}}
+POST:
+{"category":{"name":"YSlow","slug":"yslow","_parent_id":"54c8f201c556922c212a607e","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a609f"}}
+POST:
+{"category":{"name":"HttpWatch","slug":"httpwatch","_parent_id":"54c8f201c556922c212a607e","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a0"}}
+POST:
+{"category":{"name":"dynaTrace Ajax","slug":"dynatrace","_parent_id":"54c8f201c556922c212a607e","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a1"}}
+POST:
+{"category":{"name":"Karma","slug":"karam","_parent_id":"54c8f201c556922c212a607f","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a2"}}
+POST:
+{"category":{"name":"Mocha","slug":"mocha","_parent_id":"54c8f201c556922c212a607f","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a3"}}
+POST:
+{"category":{"name":"Chai","slug":"chai","_parent_id":"54c8f201c556922c212a607f","alias":["Chai.js"]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a4"}}
+POST:
+{"category":{"name":"字体","slug":"fonts","_parent_id":"54c8f201c556922c212a6080","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a5"}}
+POST:
+{"category":{"name":"图标","slug":"icon","_parent_id":"54c8f201c556922c212a6080","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a6"}}
+POST:
+{"category":{"name":"笔刷/纹理","slug":"brush","_parent_id":"54c8f201c556922c212a6080","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a7"}}
+POST:
+{"category":{"name":"Logo设计","slug":"logo","_parent_id":"54c8f201c556922c212a6080","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a8"}}
+POST:
+{"category":{"name":"设计欣赏","slug":"webcool","_parent_id":"54c8f201c556922c212a6080","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60a9"}}
+POST:
+{"category":{"name":"色彩搭配","slug":"colorfy","_parent_id":"54c8f201c556922c212a6080","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60aa"}}
+POST:
+{"category":{"name":"素材/图库","slug":"pics","_parent_id":"54c8f201c556922c212a6080","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f3c4c556922c212a60ab"}}

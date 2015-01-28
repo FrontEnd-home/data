@@ -1,0 +1,56 @@
+POST:
+{"category":{"name":"HTML","slug":"html","alias":["xhtml"]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6077"}}
+POST:
+{"category":{"name":"CSS","slug":"css","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6078"}}
+POST:
+{"category":{"name":"JavaScript","slug":"javascript","alias":["js"]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6079"}}
+POST:
+{"category":{"name":"框架","slug":"framework","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a607a"}}
+POST:
+{"category":{"name":"类库","slug":"libs","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a607b"}}
+POST:
+{"category":{"name":"开发工具","slug":"devtools","alias":["devtool"]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a607c"}}
+POST:
+{"category":{"name":"编辑器","slug":"editor","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a607d"}}
+POST:
+{"category":{"name":"性能分析","slug":"analyzer","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a607e"}}
+POST:
+{"category":{"name":"测试工具","slug":"testing","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a607f"}}
+POST:
+{"category":{"name":"Web设计","slug":"design","alias":["design","视觉设计"]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6080"}}
+POST:
+{"category":{"name":"教程","slug":"tutorial","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6081"}}
+POST:
+{"category":{"name":"书籍","slug":"books","alias":["ebook"]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6082"}}
+POST:
+{"category":{"name":"造好的轮子","slug":"wheel","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6083"}}
+POST:
+{"category":{"name":"淘金","slug":"panning","alias":[]}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54c8f201c556922c212a6084"}}
