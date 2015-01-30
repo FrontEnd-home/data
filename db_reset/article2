@@ -1,0 +1,44 @@
+POST:
+{"article":{"title":"Contact","url":"http://photoshoptutorials.ws/","desc":"接触PS图像处理软件教程","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f0035"}}
+POST:
+{"article":{"title":"Ontwik视频教程","url":"http://ontwik.com/","desc":"国外关于创意、设计、交互、开发、营销、创业….等等的视频讲座类网站，不足的是很多讲座没有字幕","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f0036"}}
+POST:
+{"article":{"title":"Photoshop Lady","url":"http://www.photoshoplady.com/","desc":"提供详细的PS教程，涵盖3D效果、文字效果、文理与图案、照片及绘图效果等","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f0037"}}
+POST:
+{"article":{"title":"Photoshopstar","url":"http://www.photoshopstar.com/","desc":"国外很系统的PS教程，从基础操作、图片修图、文字效果、图标设计、网页设计，站长够细心！","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f0038"}}
+POST:
+{"article":{"title":"Psd box","url":"http://www.psdbox.com/","desc":"原创Ps教程，并归纳出比较适合初学者的部分","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f0039"}}
+POST:
+{"article":{"title":"PSD Vault","url":"http://www.psdvault.com/","desc":"专注于世界各地PS爱好者提供的所有高品质步骤化教程","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f003a"}}
+POST:
+{"article":{"title":"Psdtuts+","url":"http://psd.tutsplus.com/","desc":"平易近人的展示一些优秀的PS教程","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f003b"}}
+POST:
+{"article":{"title":"PS联盟","url":"http://www.68ps.com/","desc":"Photoshop专业中文教程网","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f003c"}}
+POST:
+{"article":{"title":"Tutorial King","url":"http://www.tutorialking.eu/","desc":"国外很NB的PS教程","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f003d"}}
+POST:
+{"article":{"title":"Tutorial9","url":"http://www.tutorial9.net/","desc":"内容涵盖开发、动画、设计方面的教程","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f003e"}}
+POST:
+{"article":{"title":"网页设计实验室","url":"http://www.webdesign.org/","desc":"web design libray很系统的教程，从设计理论、配色、图标、FALSH、3D、栅格、编程…无所不有。可利用网址翻译辅助阅读，你会有收获！","_category_id":"54c8f201c556922c212a6081"}}
+STATUS: 200
+BODY: {"header":{"code":0},"body":{"_id":"54caf44825172ce8172f003f"}}
