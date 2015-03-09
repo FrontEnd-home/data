@@ -440,26 +440,6 @@
     "add_date": "1422356048",
     "last_modified": "1422356048"
   }, {
-    "name": "框架",
-    "slug": "framework",
-    "icon": "framework",
-    "rank": "1",
-    "quality": 0,
-    "alias": [],
-    "db_path": "db.js",
-    "add_date": "1422356048",
-    "last_modified": "1422356048"
-  }, {
-    "name": "类库",
-    "slug": "lib",
-    "icon": "lib",
-    "rank": "1",
-    "quality": 0,
-    "alias": [],
-    "db_path": "db.js",
-    "add_date": "1422356048",
-    "last_modified": "1422356048"
-  }, {
     "name": "字体",
     "slug": "fonts",
     "icon": "fonts",
